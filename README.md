@@ -1,5 +1,4 @@
-
-# 👋 Hi there! I'm [Your Name]  
+# 👋 Hi there! I'm Madhusudan Singh  
 
 ### 🌟 Data Analyst | Insights Enthusiast | Storyteller with Data  
 
@@ -33,23 +32,4 @@ Welcome to my GitHub profile! I'm passionate about analyzing complex datasets an
 
 ### 🌐 Find Me Online  
 - **Portfolio**: [YourPortfolioLink](#)  
-- **LinkedIn**: [YourLinkedInProfile](#)  
-- **Medium/Blog**: [YourBlogLink](#)  
-
----
-
-### 🛠️ Projects  
-Here are a few projects I’m proud of:  
-1. **[Project Name](#)**: Brief description of what you achieved or built.  
-2. **[Project Name](#)**: Brief description of its impact or functionality.  
-3. **[Project Name](#)**: A fun or unique project that stands out.  
-
----
-
-### 📈 Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)  
-
----
-
-Feel free to explore my repositories and connect with me to discuss all things data! 😊  
+- **LinkedIn**: [You
