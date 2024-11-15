@@ -30,6 +30,18 @@ Welcome to my GitHub profile! I'm passionate about analyzing complex datasets an
 
 ---
 
-### 🌐 Find Me Online  
-- **Portfolio**: [YourPortfolioLink](#)  
-- **LinkedIn**: [You
+### 🛠️ Projects  
+Here are a few projects I’m proud of:  
+1. **[Machine learning project 1. price description of flights  
+2. **[Machine learning project 2. checking student performance index  
+     
+
+---
+
+### 📈 Stats  
+![Madhusudan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)  
+
+---
+
+Feel free to explore my repositories and connect with me to discuss all things data! 😊  
